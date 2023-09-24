@@ -2,11 +2,13 @@
 
 I’ am Arthur, a beginner flutter developer
 
-<!-- GitHub Stats -- >
+### GitHub Stats 
 
-<a href="https://github.com/arthur-kirdiashkin">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-kirdiashkin&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-<a href="https://github.com/arthur-kirdiashkin">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=arthur-kirdiashkin&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="arthur-kirdiashkin's GitHub Stats" />
-</a>
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats-sigma-five.vercel.app/api?username=arthur-kirdiashkin&show_icons=true&count_private=true&theme=moltack&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dmitry-lyovochkin&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+  <br>
+  <br>
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=arthur-kirdiashkin&theme=moltack&hide_border=true&background=FFFFFF00">
+  <br>
+</p>
