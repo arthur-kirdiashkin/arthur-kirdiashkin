@@ -10,3 +10,13 @@ I’ am Arthur, a beginner flutter developer
   <br>
   <br>
 </p>
+
+### Contact me
+<p align="left">
+<a href="https://t.me/mordvad2">
+  <img src="https://github.com/arthur-kirdiashkin/arthur-kirdiashkin/assets/144155500/74296fa6-a31c-471f-a894-ba29d33d5c97" alt="Telegram" width="200" />
+
+
+ 
+
+
