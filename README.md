@@ -11,7 +11,7 @@ I’ am Arthur, a beginner flutter developer
   <br>
 </p>
 
-### Contact me
+### Contact me:
 <p align="left">
   <a href="https://t.me/mordvad2">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" height="100"/width="100"/>
