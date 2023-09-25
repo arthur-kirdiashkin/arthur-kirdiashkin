@@ -14,7 +14,7 @@ I’ am Arthur, a beginner flutter developer
 ### Contact me
 <p align="left">
   <a href="https://t.me/mordvad2">
-  <img src="https://github.com/arthur-kirdiashkin/arthur-kirdiashkin/assets/144155500/546f9f3d-ee17-4b11-9409-8304c4257be8" height="100"/width="100"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" height="100"/width="100"/>
   </a>
 
  
